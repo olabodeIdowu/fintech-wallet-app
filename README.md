@@ -2,7 +2,7 @@
 
 > Complete cross-platform digital wallet built with **React Native CLI** + TypeScript.
 
-![React Native](https://img.shields.io/badge/React_Native-0.75-61DAFB?logo=react)
+![React Native](https://img.shields.io/badge/React_Native-0.79.7-61DAFB?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 ![Biometrics](https://img.shields.io/badge/Biometrics-supported-green)
 ![Secure Storage](https://img.shields.io/badge/Keychain%2FKeystore-secured-orange)
